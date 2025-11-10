@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: neo4j_project
+Version: 0.1
+Summary: A Neo4j graph analysis project
+Author-email: Your Name <your.email@example.com>
+Requires-Python: >=3.12
+Requires-Dist: neo4j
+Requires-Dist: pandas
+Requires-Dist: python-dotenv

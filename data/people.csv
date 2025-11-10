@@ -1,0 +1,4 @@
+name,knows
+Alice,Bob
+Bob,Charlie
+Charlie,Alicepython src/connect.py

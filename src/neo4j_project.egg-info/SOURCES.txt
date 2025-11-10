@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+neo4j_project.egg-info/PKG-INFO
+neo4j_project.egg-info/SOURCES.txt
+neo4j_project.egg-info/dependency_links.txt
+neo4j_project.egg-info/requires.txt
+neo4j_project.egg-info/top_level.txt
